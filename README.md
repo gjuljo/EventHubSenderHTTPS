@@ -18,6 +18,7 @@ You need the following four configuration options to connect to an Azure Event H
 - Shared Access Policy Name (i.e. `RootManageSharedAccessKey`)
 
 Please be aware that these are fake values, provided just as realistic examples.
+
 The program expects the following four environment variables to be set:
 
 ~~~~
