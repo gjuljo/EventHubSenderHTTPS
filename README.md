@@ -17,6 +17,7 @@ You need the following four configuration options to connect to an Azure Event H
 - Event Hub Primary Key of a given Shared Access Policy (i.e. `TZGSLIQm65ko2ulRWVjcTRHj6eIBuPWd+w0DwVsnPek=`)
 - Shared Access Policy Name (i.e. `RootManageSharedAccessKey`)
 
+Please be aware that these are fake values, provided just as realistic examples.
 The program expects the following four environment variables to be set:
 
 ~~~~
